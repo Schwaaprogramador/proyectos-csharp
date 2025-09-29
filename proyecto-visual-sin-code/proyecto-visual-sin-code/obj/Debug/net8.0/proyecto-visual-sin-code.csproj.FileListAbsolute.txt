@@ -1,0 +1,15 @@
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\bin\Debug\net8.0\proyecto-visual-sin-code.exe
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\bin\Debug\net8.0\proyecto-visual-sin-code.deps.json
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\bin\Debug\net8.0\proyecto-visual-sin-code.runtimeconfig.json
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\bin\Debug\net8.0\proyecto-visual-sin-code.dll
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\bin\Debug\net8.0\proyecto-visual-sin-code.pdb
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\proyecto-visual-sin-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\proyecto-visual-sin-code.AssemblyInfoInputs.cache
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\proyecto-visual-sin-code.AssemblyInfo.cs
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\proyecto-visual-sin-code.csproj.CoreCompileInputs.cache
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\proyecto-visual-sin-code.sourcelink.json
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\proyecto-visual-sin-code.dll
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\refint\proyecto-visual-sin-code.dll
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\proyecto-visual-sin-code.pdb
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\proyecto-visual-sin-code.genruntimeconfig.cache
+C:\Users\Frost\Desktop\proyectos-csharp\proyecto-visual-sin-code\proyecto-visual-sin-code\obj\Debug\net8.0\ref\proyecto-visual-sin-code.dll

@@ -1,0 +1,14 @@
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\bin\Debug\net8.0\circulo.exe
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\bin\Debug\net8.0\circulo.deps.json
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\bin\Debug\net8.0\circulo.runtimeconfig.json
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\bin\Debug\net8.0\circulo.dll
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\bin\Debug\net8.0\circulo.pdb
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\circulo.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\circulo.AssemblyInfo.cs
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\circulo.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\circulo.dll
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\refint\circulo.dll
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\circulo.pdb
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\circulo.genruntimeconfig.cache
+C:\Users\DANIEL\Desktop\C#\circulo\circulo\obj\Debug\net8.0\ref\circulo.dll

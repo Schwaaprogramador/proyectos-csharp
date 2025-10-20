@@ -1,0 +1,76 @@
+## Archivos de compilación
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+## Configuración de usuario (Visual Studio / VS Code)
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.backup
+*.log
+
+## Dependencias y paquetes
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+# En caso de usar NuGet restore (no subir el directorio packages)
+*.nuget.props
+*.nuget.targets
+
+## Archivos del entorno de ejecución
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Archivos generados por compilación o test
+TestResults/
+*.TestResults.xml
+coverage/
+*.coverage
+*.coveragexml
+
+## Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## Archivos del IDE
+.idea/
+*.DotSettings.user
+
+## Configuración local (se puede regenerar)
+appsettings.Development.json
+launchSettings.json
+
+## Archivos de publicación
+publish/
+*.Publish.xml
+
+## Otros archivos comunes que no se deben versionar
+*.sqlite
+*.db
+*.pdb
+*.mdb
+*.resharper
+_ReSharper*/
+*.DotSettings
+
+## Archivos de seguridad o secretos
+secrets.json
+*.key
+*.cert

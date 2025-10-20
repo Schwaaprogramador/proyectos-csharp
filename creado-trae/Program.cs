@@ -1,6 +1,7 @@
 ﻿
 
 // ReadAndRide * Mostrar y Pedir info en cosola
+//-----
 Console.WriteLine(" mostrar mensajes ");
 string nombre = "";
 nombre = Console.ReadLine();
@@ -19,9 +20,20 @@ for (int i = 0; i < contador; i++)
     Console.WriteLine($"Contador: {i}")
 }
 
-//---
 while (contador > 0 )
 {
     Console.WriteLine(" contanding ")
     contador--
+}
+
+
+
+//-----
+// Foreach
+
+string nombre = Console.ReadLine();
+//char palabra reservada para letra 
+foreach (char letra in nombre)
+{
+    
 }
